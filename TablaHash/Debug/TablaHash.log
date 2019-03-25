@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 16/12/2014 07:26:06 p.m..
+     1>Proyecto "C:\Users\Augusto\Desktop\TablaHash\TablaHash\TablaHash\TablaHash.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\augusto\desktop\tablahash\tablahash\tablahash\ctime.h(32): warning C4244: 'return' : conversión de 'double' a 'unsigned __int64'; posible pérdida de datos
+     1>c:\users\augusto\desktop\tablahash\tablahash\tablahash\ctime.h(37): warning C4244: 'return' : conversión de 'double' a 'unsigned __int64'; posible pérdida de datos
+     1>c:\users\augusto\desktop\tablahash\tablahash\tablahash\ctime.h(42): warning C4244: 'return' : conversión de 'double' a 'unsigned __int64'; posible pérdida de datos
+     1>c:\users\augusto\desktop\tablahash\tablahash\tablahash\source.cpp(22): warning C4244: '=' : conversión de 'double' a 'unsigned int'; posible pérdida de datos
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Augusto\Desktop\TablaHash\TablaHash\Debug\TablaHash.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Augusto\Desktop\TablaHash\TablaHash\Debug\TablaHash.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Augusto\Desktop\TablaHash\TablaHash\Debug\TablaHash.lib" /MACHINE:X86 Debug\cDato.obj
+         Debug\cTablaHash.obj
+         Debug\cTime.obj
+         Debug\Source.obj
+         TablaHash.vcxproj -> C:\Users\Augusto\Desktop\TablaHash\TablaHash\Debug\TablaHash.exe
+     1>Compilación del proyecto terminada "C:\Users\Augusto\Desktop\TablaHash\TablaHash\TablaHash\TablaHash.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.09
